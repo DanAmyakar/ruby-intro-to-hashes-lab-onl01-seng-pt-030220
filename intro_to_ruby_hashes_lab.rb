@@ -1,9 +1,9 @@
 def new_hash
-
+  nw_hsh = {}
 end
 
 def actor
-
+  actor_hash = {:name}
 end
 
 def monopoly
